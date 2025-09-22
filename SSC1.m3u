@@ -1,8 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ssc1.id" tvg-logo="https://iptv.urfan.web.id/logo/ssc.png" group-title="Olahraga", SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.drm_key_id=d84c325f36814f39bbe59080272b10c3
+#KODIPROP:inputstream.adaptive.drm_key=550727de4c96ef1ecff874905493580f
+#KODIPROP:inputstream.adaptive.user_agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.referer=https://iptv.urfan.web.id
+#KODIPROP:inputstream.adaptive.origin=https://iptv.urfan.web.id
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
 #EXTINF:-1 tvg-id="ssc2.id" tvg-logo="https://iptv.urfan.web.id/logo/ssc.png" group-title="Olahraga", SSC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.drm_key_id=d84c325f36814f39bbe59080272b10c3
-#KODIPROP:inputstream.adaptive.license_key=550727de4c96ef1ecff874905493580f
+#KODIPROP:inputstream.adaptive.drm_key=550727de4c96ef1ecff874905493580f
 #KODIPROP:inputstream.adaptive.user_agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.referer=https://iptv.urfan.web.id
 #KODIPROP:inputstream.adaptive.origin=https://iptv.urfan.web.id
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#EXTINF:-1 tvg-id="ssc3.id" tvg-logo="https://iptv.urfan.web.id/logo/ssc3.png" group-title="Olahraga", SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.drm_key_id=abcdef1234567890abcdef1234567890
+#KODIPROP:inputstream.adaptive.drm_key=123456abcdef7890123456abcdef7890
+#KODIPROP:inputstream.adaptive.user_agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.referer=https://iptv.urfan.web.id
+#KODIPROP:inputstream.adaptive.origin=https://iptv.urfan.web.id
+https://ssc3-ak.akamaized.net/out/v1/abcdef1234567890abcdef1234567890/index.mpd
+
+#EXTINF:-1 tvg-id="ssc4.id" tvg-logo="https://iptv.urfan.web.id/logo/ssc4.png" group-title="Olahraga", SSC 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.drm_key_id=N/A
+#KODIPROP:inputstream.adaptive.drm_key=N/A
+#KODIPROP:inputstream.adaptive.user_agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.referer=https://iptv.urfan.web.id
+#KODIPROP:inputstream.adaptive.origin=https://iptv.urfan.web.id
+https://ssc4-ak.akamaized.net/out/v1/abcdefabcdefabcdefabcdef/index.mpd
+
