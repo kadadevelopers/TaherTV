@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="ssc2.id" tvg-logo="https://iptv.urfan.web.id/logo/ssc.png" group-title="Olahraga", SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3
+#KODIPROP:inputstream.adaptive.drm_key_id=b5dcf721ab522af92a9d3bf
+#KODIPROP:inputstream.adaptive.user_agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.referer=https://iptv.urfan.web.id
+#KODIPROP:inputstream.adaptive.origin=https://iptv.urfan.web.id
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
