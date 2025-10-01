@@ -7,6 +7,7 @@
 #K-TYPE: movie
 #K-DRM-KEYID: 11111111111111111111111111111111
 #K-DRM-KEY: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#K-LOGO: https://example.com/images/logo.png
 
 #EXTINF:-1,
 #K-TITLE: فيلم تجريبي 2
@@ -15,6 +16,7 @@
 #K-TYPE: series
 #K-DRM-KEYID: 22222222222222222222222222222222
 #K-DRM-KEY: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+#K-LOGO: https://example.com/images/logo.png
 
 #EXTINF:-1,
 #K-TITLE: فيلم تجريبي 3
@@ -23,6 +25,7 @@
 #K-TYPE: live
 #K-DRM-KEYID: 33333333333333333333333333333333
 #K-DRM-KEY: cccccccccccccccccccccccccccccccc
+#K-LOGO: https://example.com/images/logo.png
 
 #EXTINF:-1,
 #K-TITLE: فيلم تجريبي 4
@@ -31,6 +34,7 @@
 #K-TYPE: movie
 #K-DRM-KEYID: 44444444444444444444444444444444
 #K-DRM-KEY: dddddddddddddddddddddddddddddddd
+#K-LOGO: https://example.com/images/logo.png
 
 #EXTINF:-1,
 #K-TITLE: فيلم تجريبي 5
@@ -39,6 +43,7 @@
 #K-TYPE: movie
 #K-DRM-KEYID: 44444444444444444444444444444444
 #K-DRM-KEY: dddddddddddddddddddddddddddddddd
+#K-LOGO: https://example.com/images/logo.png
 
 #EXTINF:-1,
 #K-TITLE: SSC-1
@@ -47,3 +52,4 @@
 #K-TYPE: series
 #K-DRM-KEYID: d84c325f36814f39bbe59080272b10c3
 #K-DRM-KEY: 550727de4c96ef1ecff874905493580f
+#K-LOGO: https://snd.ps/uploads/images/2022/05/ALq4W.jpg
