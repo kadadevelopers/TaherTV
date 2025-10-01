@@ -34,8 +34,8 @@
 
 #EXTINF:-1,
 #K-TITLE: فيلم تجريبي 5
-#K-URL: https://example.com/test/stream5.m3u8
+#K-URL: https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #K-USERAGENT: CustomPlayer/1.0
 #K-TYPE: series
-#K-DRM-KEYID: 55555555555555555555555555555555
-#K-DRM-KEY: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+#K-DRM-KEYID: d84c325f36814f39bbe59080272b10c3
+#K-DRM-KEY: 550727de4c96ef1ecff874905493580f
