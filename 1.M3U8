@@ -1,0 +1,49 @@
+#EXTM3U CUSTOM
+
+#EXTINF:-1,
+#K-TITLE: فيلم تجريبي 1
+#K-URL: https://example.com/test/stream1.m3u8
+#K-USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#K-TYPE: movie
+#K-DRM-KEYID: 11111111111111111111111111111111
+#K-DRM-KEY: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1,
+#K-TITLE: فيلم تجريبي 2
+#K-URL: https://example.com/test/stream2.m3u8
+#K-USERAGENT: Mozilla/5.0 (Linux; Android 12)
+#K-TYPE: series
+#K-DRM-KEYID: 22222222222222222222222222222222
+#K-DRM-KEY: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+#EXTINF:-1,
+#K-TITLE: فيلم تجريبي 3
+#K-URL: https://example.com/test/stream3.m3u8
+#K-USERAGENT: VLC/3.0.18 LibVLC/3.0.18
+#K-TYPE: live
+#K-DRM-KEYID: 33333333333333333333333333333333
+#K-DRM-KEY: cccccccccccccccccccccccccccccccc
+
+#EXTINF:-1,
+#K-TITLE: فيلم تجريبي 4
+#K-URL: https://example.com/test/stream4.m3u8
+#K-USERAGENT: ExoPlayer/2.19.1
+#K-TYPE: movie
+#K-DRM-KEYID: 44444444444444444444444444444444
+#K-DRM-KEY: dddddddddddddddddddddddddddddddd
+
+#EXTINF:-1,
+#K-TITLE: فيلم تجريبي 5
+#K-URL: https://example.com/test/stream5.m3u8
+#K-USERAGENT: ExoPlayer/2.19.1
+#K-TYPE: movie
+#K-DRM-KEYID: 44444444444444444444444444444444
+#K-DRM-KEY: dddddddddddddddddddddddddddddddd
+
+#EXTINF:-1,
+#K-TITLE: SSC-1
+#K-URL: https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+#K-USERAGENT: CustomPlayer/1.0
+#K-TYPE: series
+#K-DRM-KEYID: d84c325f36814f39bbe59080272b10c3
+#K-DRM-KEY: 550727de4c96ef1ecff874905493580f
